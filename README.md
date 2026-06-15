@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Nelson Fuenmayor 👋</h1>
 
 <p align="center">
